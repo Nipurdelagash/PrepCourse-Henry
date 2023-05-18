@@ -1,1 +1,2 @@
-Esto es una prueba de clonar desde github a COmputadora
+ Este es un proyecto y clonarlo
+ 
